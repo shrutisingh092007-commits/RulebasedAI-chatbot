@@ -1,0 +1,58 @@
+Rule-Based AI Chatbot
+
+Internship name : Decode Lab Internship
+
+Intern : Shruti
+
+Project 1 – Rule-Based AI Chatbot
+
+Overview 
+
+This project is a simple rule-based Artificial Intelligence chatbot. It uses predefined rules and "if-elif-else" conditions to respond to user inputs.
+
+Objectives
+
+- Handle greetings such as "hi", "hello", and "hey".
+- Handle exit commands such as "bye", "exit", and "quit".
+- Use if-else decision-making logic.
+- Run continuously using a loop.
+- Demonstrate basic AI and control-flow concepts.
+
+Technologies Used
+
+- Python
+- Conditional statements
+- While loop
+- String handling
+- Console input/output
+
+How to Run
+
+1. Save the code as "chatbot.py".
+2. Open a terminal in the project folder.
+3. Run:
+
+python chatbot.py
+
+4. Enter messages and interact with the chatbot.
+5. Type "bye", "exit", or "quit" to stop the program.
+
+Example
+
+Chatbot: Hello! I am a rule-based AI chatbot.
+You: hello
+Chatbot: Hello! How can I help you?
+
+You: what is your name
+Chatbot: I am a Rule-Based AI Chatbot.
+
+You: bye
+Chatbot: Goodbye! Have a great day!
+
+Learning Outcomes
+
+This project provides practice with control flow, decision-making logic, loops, predefined rules, and basic conversational AI concepts.
+
+Future Improvements
+
+The chatbot can be expanded with more rules, additional responses, nested conditions, and a more distinctive personality.
